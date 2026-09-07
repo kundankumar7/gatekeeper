@@ -1,0 +1,22 @@
+# IDE and editor metadata
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Build output
+target/
+build/
+*.class
+*.log
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Operating system files
+.DS_Store
+Thumbs.db
